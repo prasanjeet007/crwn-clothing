@@ -1,4 +1,11 @@
 body {
   font-family: 'Open Sans', sans-serif;
   padding: 20px 60px;
+  background-color: burlywood;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  font-weight: bolder;
 }
