@@ -15,6 +15,9 @@ export default function Header() {
              <Link className='' to="/shop">
                 <span className='option'>CONTACT</span>
              </Link>
+             <Link className='' to="/signin">
+                <span className='option'>SIGN IN</span>
+             </Link>
             </div>
         </div>
     )
